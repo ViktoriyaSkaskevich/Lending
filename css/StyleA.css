@@ -765,12 +765,14 @@ html {
   }
   .text-content-section-third {
     text-align: center;
+    margin-left: -130px;
   }
   .main-title-section-third {
     text-align: center;
+    margin-left: -140px;
   }
   .button-section-third {
-    margin-left: 55px;
+    margin-left: -45px;
   }
   .block-third {
     margin-left: 10px;
